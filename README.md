@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys xD ❤️"> </img>
+  <img src="assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO"> </img>
 </div>
 
 ### 🧙 ABOUT MYSELF 🧙
 
 <div align="right">
   <table align="right">
-   <tr><td><a href="README.md"><img src="images/us_flag.png" height="13"> English</a></td></tr>
-   <tr><td><a href="README_id.md"><img src="images/id_flag.png" height="13"> Indonesian</a></td></tr>
+   <tr><td><a href="README.md"><img src="assets/us_flag.png" height="13"> English</a></td></tr>
+   <tr><td><a href="README_id.md"><img src="assets/id_flag.png" height="13"> Indonesian</a></td></tr>
   </table>
 
   <br>
@@ -52,16 +52,16 @@
 ### 🦄 SOCIAL MEDIA 🦄
 
 <div align="center">
-  <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord"/></a>
+  <a href="https://discord.com/users/458449112254251009/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord"/></a>
   <a href="mailto:hello.albesta.work@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="Medium"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="Pinterest"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="SoundCloud"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify"/></a>
-  <a href=""><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="Steam"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/danielalbesta/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/danielalbesta/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://hello-albesta.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="Medium"/></a>
+  <a href="https://id.pinterest.com/helloalbesta/"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="Pinterest"/></a>
+  <a href="https://soundcloud.com/mrsimple_is_ajax"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="SoundCloud"/></a>
+  <a href="https://open.spotify.com/user/31mit6lw4rk4zw5uikw62iv23x2a?si=ee1f248d906341a0"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify"/></a>
+  <a href="https://steamcommunity.com/id/hello-albesta"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="Steam"/></a>
+  <a href="https://www.youtube.com/@hello.albesta"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="YouTube"/></a>
 </div>
 
 ---
