@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO"> </img>
+  <img src="assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO">
 </div>
 
 ### 🧙 ABOUT MYSELF 🧙
@@ -45,8 +45,19 @@
 
 | 👨🏻‍💻 **TECH** 👩🏻‍💻 | 🚧🛠️🚧 **PROJECTS** 🚧🛠️🚧 |
 | - | - |
-| [![ alt text 1 ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![ Bank_Management_System ](https://img.shields.io/badge/GitHub-Bank_Management_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-OOP-BankManagementSystem) [![ Data_Extraction_System_for_Google_Sheets ](https://img.shields.io/badge/GitHub-Data_Extraction_System_for_Google_Sheets-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ETL-DataExtractionSystemForGSheets) [![ Data_Processing_System ](https://img.shields.io/badge/GitHub-Data_Processing_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ParallelComputing-DataProcessingSystem) [![ University_Data_Analysis_System ](https://img.shields.io/badge/GitHub-University_Data_Analysis_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-BDAPyspark-UniversityDataAnalysisSystem) |
-| [![ alt text 1 ](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/) | [![ Data_Modeling_Query_Exercise ](https://img.shields.io/badge/GitHub-Data_Modeling_Query_Exercise-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataModeling-QueryExercise) [![ Social_Media_Warehouse_System ](https://img.shields.io/badge/GitHub-Social_Media_Warehouse_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataWarehouse-SocialMediaWarehouseSystem) |
+| [![ alt text 1 ](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFD343)](https://www.python.org/) | [![ Bank_Management_System ](https://img.shields.io/badge/GitHub-Bank_Management_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-OOP-BankManagementSystem) [![ Data_Extraction_System_for_Google_Sheets ](https://img.shields.io/badge/GitHub-Data_Extraction_System_for_Google_Sheets-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ETL-DataExtractionSystemForGSheets) [![ Data_Processing_System ](https://img.shields.io/badge/GitHub-Data_Processing_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ParallelComputing-DataProcessingSystem) [![ University_Data_Analysis_System ](https://img.shields.io/badge/GitHub-University_Data_Analysis_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-BDAPyspark-UniversityDataAnalysisSystem) |
+| [![ alt text 1 ](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/) | [![ Data_Modeling_Query_Exercise ](https://img.shields.io/badge/GitHub-Data_Modeling_Query_Exercise-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataModeling-QueryExercise) [![ Social_Media_Warehouse_System ](https://img.shields.io/badge/GitHub-Social_Media_Warehouse_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataWarehouse-SocialMediaWarehouseSystem) |
+
+---
+
+### 🐱‍💻 TECHNOLOGIES I UTILIZE EVERY DAY 🐱‍💻
+
+<div align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=6C6C6C" alt="GitHub">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jupyter&animation=spin&svgfill=F47424" align="center" alt="Jupyter Lab">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&animation=spin&svgfill=0064A5" alt="PostgreSQL">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=FFD343" align="center" alt="Python">
+</div>
 
 ---
 
