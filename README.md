@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO">
+  <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO">
 </div>
 
 ### 🧙 ABOUT MYSELF 🧙
 
 <div align="right">
   <table align="right">
-   <tr><td><a href="README.md"><img src="assets/us_flag.png" height="13"> English</a></td></tr>
-   <tr><td><a href="additional_langs/README_id.md"><img src="assets/id_flag.png" height="13"> Indonesian</a></td></tr>
+   <tr><td><a href="/README.md"><img src="/assets/us_flag.png" height="13"> English</a></td></tr>
+   <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> Indonesian</a></td></tr>
   </table>
 
   <br>
