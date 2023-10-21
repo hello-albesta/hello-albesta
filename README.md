@@ -18,7 +18,7 @@
 
   <p align="left">
     <br>
-    <em><b>Highly motivated computer science bachelor with internship experience. In his previous role, Daniel contributed to 80% of the development, maintenance, and enhancement of a report generation system. Daniel is passionate about designing and building a system that collects, organizes, and transforms raw data into insightful information. He is persistent, adaptable, and excels at workplace collaboration.</b></em>
+    <em>Highly motivated computer science bachelor with internship experience. In his previous role, Daniel contributed to 80% of the development, maintenance, and enhancement of a report generation system. Daniel is passionate about designing and building a system that collects, organizes, and transforms raw data into insightful information. He is persistent, adaptable, and excels at workplace collaboration.</em>
   </p>
 </div>
 
@@ -36,6 +36,17 @@
   <img src="https://metrics.lecoq.io/hello-albesta?template=classic&isocalendar=1&languages=1&activity=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FJakarta">
   </details>
 </div>
+
+---
+
+### 🚦 GITHUB PROJECT LIST 🚥
+
+<br>
+
+| 👨🏻‍💻 **TECH** 👩🏻‍💻 | 🚧🛠️🚧 **PROJECTS** 🚧🛠️🚧 |
+| - | - |
+| [![ alt text 1 ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![ Bank_Management_System ](https://img.shields.io/badge/GitHub-Bank_Management_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-OOP-BankManagementSystem) [![ Data_Extraction_System_for_Google_Sheets ](https://img.shields.io/badge/GitHub-Data_Extraction_System_for_Google_Sheets-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ETL-DataExtractionSystemForGSheets) [![ Data_Processing_System ](https://img.shields.io/badge/GitHub-Data_Processing_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ParallelComputing-DataProcessingSystem) [![ University_Data_Analysis_System ](https://img.shields.io/badge/GitHub-University_Data_Analysis_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-BDAPyspark-UniversityDataAnalysisSystem) |
+| [![ alt text 1 ](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/) | [![ Data_Modeling_Query_Exercise ](https://img.shields.io/badge/GitHub-Data_Modeling_Query_Exercise-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataModeling-QueryExercise) [![ Social_Media_Warehouse_System ](https://img.shields.io/badge/GitHub-Social_Media_Warehouse_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataWarehouse-SocialMediaWarehouseSystem) |
 
 ---
 
