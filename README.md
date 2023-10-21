@@ -2,11 +2,31 @@
   <img src="header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys xD ❤️"> </img>
 </div>
 
-## ABOUT MYSELF
+### 🧙 ABOUT MYSELF 🧙
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Highly motivated computer science bachelor with internship experience. In his previous role, Daniel contributed to 80% of the development, maintenance, and enhancement of a report generation system. Daniel is passionate about designing and building a system that collects, organizes, and transforms raw data into insightful information. He is persistent, adaptable, and excels at workplace collaboration.</b></em> 
+<div align="right">
+  <table align="right">
+   <tr><td><a href="README.md"><img src="images/us_flag.png" height="13"> English</a></td></tr>
+   <tr><td><a href="README_id.md"><img src="images/id_flag.png" height="13"> Indonesian</a></td></tr>
+  </table>
 
-## 🐱 PERSONAL GITHUB METRICS
+  <br>
+</div>
+
+<div>
+  <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU4NHByM3V6Zmxzd2p3eGhuOWZxNjJ4Zjg0NThzcHlobWw4dmdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dMFZrx4ZdXCkRWuGLX/giphy.gif" width="140">
+
+  <p align="left">
+    <br>
+    <em><b>Highly motivated computer science bachelor with internship experience. In his previous role, Daniel contributed to 80% of the development, maintenance, and enhancement of a report generation system. Daniel is passionate about designing and building a system that collects, organizes, and transforms raw data into insightful information. He is persistent, adaptable, and excels at workplace collaboration.</b></em>
+  </p>
+</div>
+
+<br>
+
+---
+
+### 🐱 PERSONAL GITHUB METRICS 🐱
 
 <div align="center">
   <details>
@@ -17,7 +37,9 @@
   </details>
 </div>
 
-## 🎵 SPOTIFY ACTIVITY
+---
+
+### 🎵 SPOTIFY ACTIVITY 🎵
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mit6lw4rk4zw5uikw62iv23x2a&redirect=true">
@@ -25,7 +47,9 @@
   </a>
 </div>
 
-## :link: Links
+---
+
+### 🦄 SOCIAL MEDIA 🦄
 
 <div align="center">
   <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord"/></a>
@@ -34,39 +58,36 @@
   <a href=""><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="Medium"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="Pinterest"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="Reddit"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="SoundCloud"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify"/></a>
   <a href=""><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="Steam"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/tiktok.png" alt="TikTok"/></a>
-  <a href=""><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="Twitch"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="YouTube"/></a>
 </div>
 
-<br>
+---
 
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="39" height="39" alt="Bird 1"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="45" height="39" alt="Bird 2"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="39" height="39" alt="Bird 3"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="39" height="39" alt="Bird 4"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="39" height="39" alt="Bird 5"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="39" height="39" alt="Bird 6"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="39" height="39" alt="Bird 7"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="39" height="39" alt="Bird 8"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="39" height="39" alt="Bird 9"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="45" height="39" alt="Bird 10"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="39" height="39" alt="Bird 11"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="39" height="39" alt="Bird 12"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="39" height="39" alt="Bird 13"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="39" height="39" alt="Bird 14"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="39" height="39" alt="Bird 15"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="39" height="39" alt="Bird 16"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="39" height="39" alt="Bird 17"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="39" height="39" alt="Bird 18"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="39" height="39" alt="Bird 19"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="39" height="39" alt="Bird 20"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="39" height="39" alt="Bird 21"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="39" height="39" alt="Bird 22"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="39" height="39" alt="Bird 23"/>
 </div>
