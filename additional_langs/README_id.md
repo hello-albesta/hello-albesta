@@ -6,8 +6,8 @@
 
 <div align="right">
   <table align="right">
-   <tr><td><a href="README.md"><img src="/assets/us_flag.png" height="13"> Inggris</a></td></tr>
-   <tr><td><a href="additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> Indonesia</a></td></tr>
+   <tr><td><a href="/README.md"><img src="/assets/us_flag.png" height="13"> Inggris</a></td></tr>
+   <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> Indonesia</a></td></tr>
   </table>
 
   <br>
