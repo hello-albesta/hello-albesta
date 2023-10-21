@@ -6,7 +6,7 @@
 
 <div align="right">
   <table align="right">
-   <tr><td><a href="/README.md"><img src="/assets/us_flag.png" height="13"> English</a></td></tr>
+   <tr><td><img src="/assets/us_flag.png" height="13"> English</td></tr>
    <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> Indonesian</a></td></tr>
   </table>
 
