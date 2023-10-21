@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO">
+  <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO">
 </div>
 
-### 🧙 ABOUT MYSELF 🧙
+### 🧙 私について 🧙
 
 <div align="right">
   <table align="right">
-   <tr><td><a href="README.md"><img src="assets/us_flag.png" height="13"> English</a></td></tr>
-   <tr><td><a href="additional_langs/README_id.md"><img src="assets/id_flag.png" height="13"> Indonesian</a></td></tr>
+   <tr><td><a href="/README.md"><img src="/assets/us_flag.png" height="13"> 英語</a></td></tr>
+   <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> インドネシア語</a></td></tr>
+   <tr><td><img src="/assets/jp_flag.png" height="13"> 日本語</td></tr>
   </table>
 
   <br>
@@ -18,7 +19,7 @@
 
   <p align="left">
     <br>
-    <em>Highly motivated computer science bachelor with internship experience. In his previous role, Daniel contributed to 80% of the development, maintenance, and enhancement of a report generation system. Daniel is passionate about designing and building a system that collects, organizes, and transforms raw data into insightful information. He is persistent, adaptable, and excels at workplace collaboration.</em>
+    <em>意欲的なコンピューター・サイエンスの学士号を持ち、インターンシップ経験もある。前職では、レポート作成システムの開発、保守、強化の80%に貢献。生データを収集、整理し、洞察力のある情報に変換するシステムの設計と構築に情熱を注ぐ。粘り強くて適応力があり、職場でのコラボレーションが得意です。</em>
   </p>
 </div>
 
@@ -26,11 +27,11 @@
 
 ---
 
-### 🐱 PERSONAL GITHUB METRICS 🐱
+### 🐱 個人的なGITHUBメトリクス 🐱
 
 <div align="center">
   <details>
-    <summary><b>Check it Out! 👇🏻</b></summary>
+    <summary><b>ぜひご覧あれ！ 👇🏻</b></summary>
     <br>
 
   <img src="https://metrics.lecoq.io/hello-albesta?template=classic&isocalendar=1&languages=1&activity=1&introduction=1&habits=1&achievements=1&repositories=1&code=1&followup=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&introduction=false&introduction.title=true&config.timezone=Asia%2FJakarta&config.twemoji=true&config.octicon=true">
@@ -39,18 +40,18 @@
 
 ---
 
-### 🚦 GITHUB PROJECT LIST 🚥
+### 🚦 GITHUB プロジェクトリスト 🚥
 
 <br>
 
-| 👨🏻‍💻 **TECH** | 🚧🛠️🚧 **PROJECTS** 🚧🛠️🚧 |
+| 👨🏻‍💻 **テクノ** | 🚧🛠️🚧 **プロジェクト** 🚧🛠️🚧 |
 | - | - |
 | [![ alt text 1 ](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFD343)](https://www.python.org/) | [![ Bank_Management_System ](https://img.shields.io/badge/GitHub-Bank_Management_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-OOP-BankManagementSystem) [![ Data_Extraction_System_for_Google_Sheets ](https://img.shields.io/badge/GitHub-Data_Extraction_System_for_Google_Sheets-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ETL-DataExtractionSystemForGSheets) [![ Data_Processing_System ](https://img.shields.io/badge/GitHub-Data_Processing_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-ParallelComputing-DataProcessingSystem) [![ University_Data_Analysis_System ](https://img.shields.io/badge/GitHub-University_Data_Analysis_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/Python-BDAPyspark-UniversityDataAnalysisSystem) |
 | [![ alt text 1 ](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/) | [![ Data_Modeling_Query_Exercise ](https://img.shields.io/badge/GitHub-Data_Modeling_Query_Exercise-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataModeling-QueryExercise) [![ Social_Media_Warehouse_System ](https://img.shields.io/badge/GitHub-Social_Media_Warehouse_System-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/hello-albesta/SQL-DataWarehouse-SocialMediaWarehouseSystem) |
 
 ---
 
-### 🐱‍💻 TECHNOLOGIES I UTILIZE EVERY DAY 🐱‍💻
+### 🐱‍💻 私が毎日利用している技術 🐱‍💻
 
 <div align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=6C6C6C" alt="GitHub">
@@ -61,7 +62,7 @@
 
 ---
 
-### 🎵 SPOTIFY ACTIVITY 🎵
+### 🎵 スポティファイ活動 🎵
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mit6lw4rk4zw5uikw62iv23x2a&redirect=true">
@@ -71,7 +72,7 @@
 
 ---
 
-### 🦄 SOCIAL MEDIA 🦄
+### 🦄 ソーシャル・メディア 🦄
 
 <div align="center">
   <a href="https://discord.com/users/458449112254251009/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord"/></a>
