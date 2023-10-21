@@ -8,6 +8,7 @@
   <table align="right">
    <tr><td><img src="/assets/us_flag.png" height="13"> English</td></tr>
    <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> Indonesian</a></td></tr>
+   <tr><td><a href="/additional_langs/README_jp.md"><img src="/assets/jp_flag.png" height="13"> Japan</a></td></tr>
   </table>
 
   <br>
