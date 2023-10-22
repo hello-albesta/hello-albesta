@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="Hi, I'm Daniel D. Albesta 👋 I'm a 🚀 Indonesian developer 🚀 I ❤️ You guys XOXO">
+  <img src="/assets/header_hello-albesta_github_profile_jp.svg" alt="こんにちは、私の名前はDaniel D. Albestaです 👋 私はインドネシアの 🚀 データファンです 🚀 私は ❤️ 皆さん XOXO">
 </div>
 
 ### 🧙 私について 🧙
