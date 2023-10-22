@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/header_hello-albesta_github_profile_id.svg" alt="Hi, namaku Daniel D. Albesta 👋 Aku adalah 🚀 data mania asal Indonesia 🚀 Aku ❤️ Kalian semua XOXO">
+  <img src="/assets/header_hello-albesta_github_profile_id.svg" alt="Hi, namaku Daniel D. Albesta 👋 Aku adalah 🚀 penggemar data asal Indonesia 🚀 Aku ❤️ Kalian semua XOXO">
 </div>
 
 ### 🧙 TENTANG DIRIKU 🧙
