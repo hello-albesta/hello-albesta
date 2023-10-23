@@ -99,7 +99,7 @@
 ---
 
 <div align="center">
-  🦜 <em>Semoga burung beo selalu bersama kalian semua!</em> 🦜 <br>
+  🦜 <em>Semoga para burung beo selalu bersama kalian semua!</em> 🦜 <br>
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="64" height="64"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="64" height="64"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="64" height="64"/>
