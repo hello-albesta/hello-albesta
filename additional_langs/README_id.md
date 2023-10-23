@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/header_hello-albesta_github_profile_id.svg" alt="Hi, namaku Daniel D. Albesta 👋 Aku adalah 🚀 penggemar data asal Indonesia 🚀 Aku ❤️ Kalian semua XOXO">
+  <img src="/assets/header_hello-albesta_github_profile_id.svg" alt="❤️Hi, namaku Daniel D. Albesta. Aku seorang penggemar data dari Indonesia. Aku sayang kalian semua XOXO.❤️">
 </div>
 
 ### 🧙 TENTANG DIRIKU 🧙
@@ -8,6 +8,7 @@
   <table align="right">
    <tr><td><a href="/README.md"><img src="/assets/us_flag.png" height="13"> Inggris</a></td></tr>
    <tr><td><img src="/assets/id_flag.png" height="13"> Indonesia</td></tr>
+   <tr><td><a href="/additional_langs/README_cn.md"><img src="/assets/cn_flag.png" height="13"> Mandarin</a></td></tr>
    <tr><td><a href="/additional_langs/README_jp.md"><img src="/assets/jp_flag.png" height="13"> Jepang</a></td></tr>
   </table>
 
