@@ -91,28 +91,39 @@
 ---
 
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="70" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="70" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="64" height="64"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="64" height="64"/>
+  <h3>🪔 <em>"Data adalah minyak yang baru."</em> 🪔 ─ <b>Clive Humby</b> 👴🏻</h3>
+
+  <h3>🤗🙌 <em><b>Terimakasih telah mengujungi profil</em> 👾GitHub<em>-ku!</b></em> 🙌🤗</h3>
 </div>
+
+---
+
+<div align="center">
+  🦜 <em>Semoga burung Beo selalu bersama kalian semua!</em> 🦜 <br>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="70" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="70" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="64" height="64"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="64" height="64"/>
+</div>
+
+---
