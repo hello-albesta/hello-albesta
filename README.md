@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="Hi, my name is Daniel D. Albesta 👋 I'm a 🚀 data enthusiast from Indonesia 🚀 I ❤️ You guys XOXO">
+  <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="❤️Hi, my name is Daniel D. Albesta. I'm a data enthusiast from Indonesia. I love you all XOXO.❤️">
 </div>
 
 ### 🧙 ABOUT MYSELF 🧙
@@ -8,9 +8,9 @@
   <table align="right">
    <tr><td><img src="/assets/us_flag.png" height="13"> English</td></tr>
    <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> Indonesian</a></td></tr>
+   <tr><td><a href="/additional_langs/README_cn.md"><img src="/assets/cn_flag.png" height="13"> Chinese</a></td></tr>
    <tr><td><a href="/additional_langs/README_jp.md"><img src="/assets/jp_flag.png" height="13"> Japanese</a></td></tr>
   </table>
-
   <br>
 </div>
 
