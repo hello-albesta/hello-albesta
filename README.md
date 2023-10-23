@@ -89,11 +89,13 @@
 
 ---
 
+<br>
 <div align="center">
   <h3>🪔 <em>"Data is the new oil."</em> 🪔 ─ <b>Clive Humby</b> 👴🏻</h3>
 
   <h3>🤗🙌 <em><b>Thank you for visiting my</em> 👾GitHub <em>profile!</b></em> 🙌🤗</h3>
 </div>
+<br>
 
 ---
 
