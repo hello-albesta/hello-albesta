@@ -90,6 +90,15 @@
 ---
 
 <div align="center">
+  <h3>🪔 <em>"Data is the new oil."</em> 🪔 ─ <b>Clive Humby</b> 👴🏻</h3>
+
+  <h3>🤗🙌 <em><b>Thank you for visiting my</em> 👾GitHub <em>profile!</b></em> 🙌🤗</h3>
+</div>
+
+---
+
+<div align="center">
+    🦜 <em>May the parrot always be with you all!</em> 🦜 <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="64" height="64"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="64" height="64"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="64" height="64"/>
@@ -115,3 +124,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="64" height="64"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="64" height="64"/>
 </div>
+
+---
