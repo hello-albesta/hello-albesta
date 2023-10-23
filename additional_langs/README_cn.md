@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="大家好，我叫丹尼尔-D-阿尔贝斯塔（Daniel D. Albesta）。我是来自印度尼西亚的数据爱好者。爱你们 XOXO。">
+  <img src="/assets/header_hello-albesta_github_profile_cn.svg" alt="❤️大家好，我叫丹尼尔-D-阿尔贝斯塔（Daniel D. Albesta）。我是来自印度尼西亚的数据爱好者。爱你们 XOXO。❤️">
 </div>
 
 ### 🧙 关于我 🧙
@@ -8,10 +8,9 @@
   <table align="right">
    <tr><td><a href="/README.md"><img src="/assets/us_flag.png" height="13"> 英语</td></tr>
    <tr><td><a href="/additional_langs/README_id.md"><img src="/assets/id_flag.png" height="13"> 印尼语</a></td></tr>
+   <tr><td><img src="/assets/cn_flag.png" height="13"> 普通话</td></tr>
    <tr><td><a href="/additional_langs/README_jp.md"><img src="/assets/jp_flag.png" height="13"> 日语</a></td></tr>
-   <tr><td><img src="/assets/jp_flag.png" height="13"> 普通话</td></tr>
   </table>
-
   <br>
 </div>
 
