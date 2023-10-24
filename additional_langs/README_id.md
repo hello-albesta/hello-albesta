@@ -78,7 +78,7 @@
 <div align="center">
   <a href="https://discord.com/users/458449112254251009/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord"/></a>
   <a href="mailto:hello.albesta.work@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.hackerrank.com/profile/codebyDA"><img src="https://i.ibb.co/wJpfQxV/hackerrank-logo.png" alt="HackerRank"/></a>
+  <a href="https://www.hackerrank.com/profile/hello_albesta"><img src="https://i.ibb.co/wJpfQxV/hackerrank-logo.png" alt="HackerRank"/></a>
   <a href="https://www.instagram.com/danielalbesta/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/danielalbesta/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://hello-albesta.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="Medium"/></a>
