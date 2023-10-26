@@ -24,8 +24,6 @@
   </p>
 </div>
 
-<br>
-
 ---
 
 ### 🐱 METRIK GITHUB PRIBADI 🐱
