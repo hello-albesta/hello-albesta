@@ -102,7 +102,11 @@
 ---
 
 <div align="center">
-  🦜 <em>オウムがいつもあなた方全員と一緒にいられますように!</em> 🦜 <br>
+  🦜 <em>オウムがいつもあなた方全員と一緒にいられますように!</em> 🦜
+
+  <br>
+  <br>
+
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="64" height="64"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="64" height="64"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="64" height="64"/>
