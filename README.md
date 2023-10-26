@@ -102,7 +102,11 @@
 ---
 
 <div align="center">
-  🦜 <em>May the parrots always be with you all!</em> 🦜 <br>
+  🦜 <em>May the parrots always be with you all!</em> 🦜
+
+  <br>
+  <br>
+
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="64" height="64"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="64" height="64"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="64" height="64"/>
